@@ -13,4 +13,6 @@ git init
 #git remote add origin url
 
 # pull from the repo to populate your folder by running the below command
-#git pull
+#git pull origin master
+
+#boom you'll get the structure now all you need to do is fill that structure and when you are done just run this command to submit it
